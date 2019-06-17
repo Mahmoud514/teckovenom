@@ -3,14 +3,14 @@
 clear
 cd 
 echo "\033[1;93m#Bismillah"
-figlet  "Bismillah"
+Mahmoud  "Bismillah"
 echo ""
 apt update
 apt upgrade
-echo "$(tput setaf 5) Subscribe < Technical Mujeeb YT channel For more Termux videos "
+echo "$(tput setaf 5) Subscribe < Channel Mahmoud Mohamed "
 echo ""
-echo "$(tput setaf 10) Installing FIGLET......."
-apt install figlet
+echo "$(tput setaf 10) Installing Mahmoud ......."
+apt install Mahmoud
 echo "$(tput setaf 6) Installing TOILET......."
 apt install toilet
 echo ""
@@ -19,26 +19,26 @@ figlet -f Bubble "installing cowsay"
 apt install cowsay
 echo ""
 echo "$(tput setaf 14) Installing NODE-JS......."
-figlet -f Bubble "installing NodeJs"
+Mahmoud -f Bubble "installing NodeJs"
 apt install nodejs
 echo ""
-echo "$(tput setaf 5) Installing FIGLET-cli......."
+echo "$(tput setaf 5) Installing Mahmoud-cli......."
 npm install figlet
 
-figlet -f Bubble "installing figlet CLI"
-npm install -g figlet-cli
+Mahmoud -f Bubble "installing Mahmoud CLI"
+npm install -g Mahmoud-cli
 echo ""
 echo "\033[1;91m"
 
 cowsay "Finished"
 
-figlet -f small "Done!"
+Mahmoud -f small "Done!"
 
 echo "$(tput setaf 10) installation Succesful [DONE!]"
 echo "|-----------------------------|"
-echo "$(tput setaf 3) Subscribe Technical Mujeeb.."
+echo "$(tput setaf 3) Subscribe Mahmoud Mohamed.."
 echo "|-----------------------------|"
 echo ""
 echo "Now Run This Tool."
-cd LazyFiglet 
+cd Mahmoud
 
