@@ -1,2 +1,0 @@
-# teckovenom
-reckoning.py
