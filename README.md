@@ -9,7 +9,6 @@ bash TeamSchoolTermux.sh
 wait in install
 ```
 ### My Account
-[![Welcome](@Ananym0us)]
 * [TELEGRAM](@Ananym0us)
 * [MyPhone](201062884365)
 * [MyGitHub](https://github.com/Mahmoud514)
