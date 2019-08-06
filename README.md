@@ -6,6 +6,7 @@
 git clone https://github.com/Mahmoud514/teckovenom.git
 cd teckovenom
 bash TeamSchoolTermux.sh
+```
 wait in install
 ```
 ### My Account
