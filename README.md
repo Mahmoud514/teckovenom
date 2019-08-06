@@ -3,9 +3,9 @@
 ![Screen](http://www.m9c.net/uploads/15648511011.png)
 ### Installations
 ```
-git clone https://github.com/Mahmoud514/TeamSchoolTermux.git
-cd TeamSchoolTermux
-bash TeamSchoolTermux
+git clone https://github.com/Mahmoud514/teckovenom.git
+cd teckovenom
+bash TeamSchoolTermux.sh
 wait in install
 ```
 ### My Account
