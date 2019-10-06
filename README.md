@@ -9,7 +9,9 @@ bash TeamSchoolTermux.sh
 wait in install
 ```
 ### My Account
+```
 [![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
 * [TELEGRAM](@Ananym0us)
-* [MyPhone](201062884365)
+* [MyPhone](https://wa.me/201062884365)
 * [MyGitHub](https://github.com/Mahmoud514)
+```
