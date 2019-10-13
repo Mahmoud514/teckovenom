@@ -9,7 +9,7 @@ bash install-Termux2.sh
 bash TeamSchoolTermux.sh
 wait in install
 ```
-[ThaNKs]
+
 ```
 Thx Install my ProjEct
 ```
