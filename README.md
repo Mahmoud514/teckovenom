@@ -5,6 +5,7 @@
 ```
 git clone https://github.com/Mahmoud514/teckovenom.git
 cd teckovenom
+bash install-Termux2.sh
 bash TeamSchoolTermux.sh
 wait in install
 ```
@@ -13,3 +14,4 @@ wait in install
 * [TELEGRAM](@Ananym0us)
 * [MyPhone](https://wa.me/201062884365)
 * [MyGitHub](https://github.com/Mahmoud514)
+###Thx Install my ProjEct
